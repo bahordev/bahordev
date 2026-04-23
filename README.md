@@ -1,4 +1,4 @@
- # 👋 Salom, men Bahor Turayeva (@bahordev)
+# 👋 Hi, I'm Bahor Turayeva (@bahordev)
 
 ### 💻 Software Engineer | Rust & Python Backend Developer 🦀🐍
 
@@ -11,15 +11,15 @@
 
 ---
 
-### 🚀 Men haqimda:
-- ⚡ **Asosiy yo'nalish:** Rust va Python yordamida yuqori tezlikdagi backend tizimlari va trading botlari yaratish.
-- 🛠 **Texnologiyalar:** Rust (Tokio, Axum), Python (FastAPI, Pandas), Binance Terminal.
-- 🎯 **Maqsad:** Algoritmik trading va AI integratsiyasida professional darajaga chiqish.
-- 📚 **Hozirda:** SAT (1600) va IELTS (9.0) imtihonlariga tayyorgarlik ko'ryapman.
+### 🚀 About Me:
+- ⚡ **Core Focus:** Building high-performance backend systems and trading bots using Rust and Python.
+- 🛠 **Technologies:** Rust (Tokio, Axum), Python (FastAPI, Pandas), Binance Terminal.
+- 🎯 **Goal:** Achieving professional expertise in Algorithmic Trading and AI integration.
+- 📚 **Current Status:** Preparing for SAT (Target 1600) and IELTS (Target 9.0).
 
 ---
 
-### 📊 Mening GitHub statistikalarim:
+### 📊 GitHub Statistics:
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bahordev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahordev&layout=compact&langs_count=7&theme=radical"/>
@@ -27,8 +27,8 @@
 
 ---
 
-### 📫 Men bilan bog'lanish:
+### 📫 Connect with me:
 - **GitHub:** @bahordev
-- **Maqsad:** 2-yillik intensiv College dasturi va AI tadqiqotlari.
+- **Vision:** 2-year intensive CS program and AI research.
 
 *"Code is like humor. When you have to explain it, it’s bad."*
